@@ -1,4 +1,0 @@
-[submodule "random_walk_model"]
-	recurse = true
-	path = random_walk_model
-	url = https://github.com/rutalaboratory/random_walk_model.git
