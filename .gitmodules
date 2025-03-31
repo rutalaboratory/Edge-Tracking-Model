@@ -1,0 +1,3 @@
+[submodule "random_walk_model"]
+	path = random_walk_model
+	url = git@github.com:rutalaboratory/random_walk_ET.git
