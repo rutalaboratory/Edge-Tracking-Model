@@ -1,6 +1,6 @@
 ### switching state space model
 
-#### Installation:
+#### Environment:
 first install ssm
 ```
 git clone https://github.com/lindermanlab/ssm
