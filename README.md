@@ -12,7 +12,7 @@ Model associated with:
 
 Use the following command to clone the repository:
 ```sh
-git clone https://github.com/rutalaboratory/Edge-Tracking-Model .git
+git clone https://github.com/rutalaboratory/Edge-Tracking-Model.git
 ```
 Instructions for installing the packages and running the state space model in the subfolder. 
 
